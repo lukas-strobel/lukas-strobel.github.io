@@ -1,1 +1,4 @@
-PhD Researcher @ KIT Karlsruhe
+---
+layout: home
+title:  Lukas Strobel
+---
