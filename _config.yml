@@ -27,10 +27,10 @@ description: > # this means to ignore newlines until "baseurl:"
 base_url: "/docs"
 url: https://lukas-strobel.github.io
 site_branch: master
-github_username:  lukas-strobel
+# github_username:  lukas-strobel
 
 # Build settings
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
