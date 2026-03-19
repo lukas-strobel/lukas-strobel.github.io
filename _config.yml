@@ -26,7 +26,7 @@ site_branch: master
 # github_username:  lukas-strobel
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
