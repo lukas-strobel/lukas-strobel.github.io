@@ -9,6 +9,7 @@ url: https://lukas-strobel.github.io
 timezone: Europe/Berlin
 base_url: "/docs"
 site_branch: master
+theme: jekyll-theme-minimal
 github_username:  lukas-strobel
 highlighter: rouge
 gist:
