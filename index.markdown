@@ -1,2 +1,2 @@
-# Lukas Strobel (he/him)
+# Lukas Strobel
 PhD Researcher @ KIT Karlsruhe
