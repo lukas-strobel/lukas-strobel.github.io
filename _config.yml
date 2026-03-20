@@ -27,9 +27,15 @@ site_branch: master
 base_url: lukas-strobel.github.io
 # github_username:  lukas-strobel
 
-
 # Build settings
 theme: minima
+minima:
+  skin: dark
+  nav_pages:
+    - about.md
+    - publications.md
+    - photography.md
+
 plugins:
   - jekyll-feed
   - jemoji
