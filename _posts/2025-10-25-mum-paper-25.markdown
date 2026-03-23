@@ -1,0 +1,16 @@
+---
+layout: post
+title:  ⚽️ Our paper on role of technology for accessible stadia experiences was accepted at MUM '25
+date:   2025-10-25 18:22:19 +0100
+categories: jekyll update
+img: /img/posts/interfaces.png
+alt: Desktop, AR and VR use cases for interactive seat plans.
+---
+We will be presenting our recently accepted paper "Exploring The Role of Technology for Accessible Stadium Experiences for People With Limited Mobility" at the 24th International Conference on Mobile and Ubiquitous Multimedia in Italy in December ([link to paper](https://doi.org/10.1145/3771882.3771891)). This paper is a sequel of our CHI '25 paper and explores the relationship between (technological) infrastructures and disabled sports spectators more broadly, thereby reiterating on the design of interactive seat plans.
+
+Thanks to Kaan Göbül for contributing a major part with his Master thesis!
+
+<figure>
+  <img src="{{ page.img }}" alt="{{ page.alt }}">
+  <figcaption>Desktop, AR and VR use cases for interactive seat plans.</figcaption>
+</figure>

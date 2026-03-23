@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TOCHI Article Accepted
+title:  🏀 The literature review on HCI, disability and sport will be published in TOCHI
 date:   2025-01-17 16:37:52 +0100
 categories: jekyll update
 img: /img/posts/years_communities.pdf

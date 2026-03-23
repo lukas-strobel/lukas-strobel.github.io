@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ASSETS Paper Accepted
+title:  👨🏻‍🏫 Our paper on making lecture material accessible using AI was accepted at ASSETS 25
 date:   2025-10-23 10:45:33 +0100
 categories: jekyll update
 img: /img/posts/lecture_assistant.jpeg

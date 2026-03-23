@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CHI Paper Accepted
+title:  🏟️ My autoethnography was accepted at CHI '25
 date:   2025-03-20 10:15:23 +0100
 categories: jekyll update
 img: /img/posts/drawing_categories.png

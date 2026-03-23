@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Best Paper Award @ MUM '25
+title:  🏆 The MUM paper won best paper award
 date:   2025-12-10 15:34:49 +0100
 categories: jekyll update
 copyright: "© MUM '25"
