@@ -13,6 +13,6 @@ We explored this question in a literature review that has just been accepted to 
 You can read our full paper [here](https://dl.acm.org/doi/10.1145/3716136) , and we hope that it'll inspire future research on sports technology and the role of leisure and joy for all of us.
 
 <figure>
-  <img src="{{ page.img }}" alt="{{ page.alt }}">
+  <img src="{{ page.img }}" alt="{{ page.alt }}" width="100%">
   <figcaption>Publications in the field of HCI, disability, and sport grouped by year and community.</figcaption>
 </figure>
