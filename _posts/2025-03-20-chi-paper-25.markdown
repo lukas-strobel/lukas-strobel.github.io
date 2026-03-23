@@ -1,0 +1,18 @@
+---
+layout: post
+title:  CHI Paper Accepted
+date:   2025-03-20 10:15:23 +0100
+categories: jekyll update
+img: /img/posts/drawing_categories.png
+alt: Drawing of a part of a seat plan with seat categories.
+---
+How do interactive seat plans for public events reflect accessibility information?
+
+We invistigated this question using first-person methods: The first author explored their interaction with these seat plans and reported on their experiences. This deep introspection showcased that buying tickets as a mobility-disabled person can be complicated as it is difficult to find accessible seats on these representations. However, the results also show that improved ticket purchasing systems bear potential to ease this process, thereby also empowering disabled people and decreasing dependency on other people.
+ 
+You can read more about this unique personal account [here](https://doi.org/10.1145/3706598.3713414).
+
+<figure>
+  <img src="{{ page.img }}" alt="{{ page.alt }}">
+  <figcaption>Drawing of a part of a seat plan with seat categories.</figcaption>
+</figure>

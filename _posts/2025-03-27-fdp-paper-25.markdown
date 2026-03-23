@@ -1,0 +1,17 @@
+---
+layout: post
+title:  FDG Paper Accepted
+date:   2025-03-27 14:10:12 +0100
+categories: jekyll update
+img: /img/posts/model.pdf
+alt: A model of team dynamics and other aspects in the context of eSports disengagement.
+---
+How is disengagement approached in competitive eSports games, and which aspects of gameplay affect players’ experiences of disengagement?
+
+We invistigated this question using an interview-based approach: Our results highlight the various factors that influence how eSports teams experience disengagement (see figure below).
+You can read all details here [here](https://doi.org/10.1145/3723498.3723804).
+
+<figure>
+  <img src="{{ page.img }}" alt="{{ page.alt }}">
+  <figcaption>A model of team dynamics and other aspects in the context of eSports disengagement.</figcaption>
+</figure>
