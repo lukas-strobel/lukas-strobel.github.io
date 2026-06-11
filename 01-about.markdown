@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<img src="/img/me_pano.jpeg" width="300" height="100">
+<img src="/img/me_pano.jpeg" width="750" height="250">
 
 I'm a researcher at the [HCI & Accessibility](https://hci.iar.kit.edu/index.php) group at the Karlsruhe Institute of Technology (KIT). I hold a Master's degree in Computer Science from Saarland University. My research focuses on Human-Computer Interaction, accessibility and sport. 
 
