@@ -6,9 +6,10 @@ permalink: /about/
 
 <div style="display:flex; gap:20px;">
   <img src="/img/me_pano.jpeg" width="750" height="250">
+  <p>I'm a researcher at the [HCI & Accessibility](https://hci.iar.kit.edu/index.php) group at the Karlsruhe Institute of Technology (KIT). I hold a Master's degree in Computer Science from Saarland University. My research focuses on Human-Computer Interaction, accessibility and sport. 
+</p>
 </div>
 
-I'm a researcher at the [HCI & Accessibility](https://hci.iar.kit.edu/index.php) group at the Karlsruhe Institute of Technology (KIT). I hold a Master's degree in Computer Science from Saarland University. My research focuses on Human-Computer Interaction, accessibility and sport. 
 
 I research two perspectives on sport:
 - Providing equitable experience-centred activities through technology with a focus on cycling
